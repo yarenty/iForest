@@ -79,3 +79,8 @@ scoverage/
 testScoverage/
 src/scoverage/
 src/testScoverage/
+/IsolationForest.iml
+/gradlew
+/IsolationForest.ipr
+/gradlew.bat
+/gradle/
